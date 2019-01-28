@@ -1,16 +1,16 @@
 {
 "todos" : [
 	{ "id":1,
-	   "activity":"walk"
+	   "title":"walk"
 	},
 	{ "id":2,
-	  "activty":"jog"
+	  "title":"jog"
 	},
 	{ "id":3,
-	  "activity":"gym"
+	  "title":"gym"
 	},
 	{ "id":4,
-	  "activity":"read"
+	  "title":"read"
 	}
 ]
 }
